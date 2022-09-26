@@ -5,3 +5,5 @@
   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
   - [![C++](https://img.shields.io/badge/-C++-0080FF?style=flat-square&logo=c%2B%2B&logoColor=fff)](https://isocpp.org/)
+- 正在使用
+  - [![Windows](https://img.shields.io/badge/Windows11-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/) 
