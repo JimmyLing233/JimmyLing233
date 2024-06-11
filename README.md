@@ -1,4 +1,4 @@
-### 你好👋
+### Hi👋
 这里是Akari，一个大大滴铁废物。
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JimmyLing233&show_icons=true&theme=algolia" alt="JimmyLing233's github stats" />
 - 正在学习（三天打鱼两天晒网）
